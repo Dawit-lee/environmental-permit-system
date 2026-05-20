@@ -107,7 +107,7 @@
 
 ## 🪧 ERD
 
-> 추후 업데이트 예정 (ERDCloud 링크 추가 예정)
+> [ERDCloud](https://www.erdcloud.com/d/qQKndT33McSBD2xAW)
 
 ---
 
