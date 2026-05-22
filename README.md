@@ -113,7 +113,7 @@
 
 ## 🗃️ 테이블 명세서
 
-> 추후 업데이트 예정
+> [테이블 명세서](https://github.com/user-attachments/files/28127595/table_specification.xlsx)
 
 **총 6개 테이블**
 `users` `projects` `permit_items` `permit_history` `documents` `notifications`
