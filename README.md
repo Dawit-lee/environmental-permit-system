@@ -122,7 +122,7 @@
 
 ## 🎯 API 명세서
 
-> 추후 업데이트 예정 (Swagger 링크 추가 예정)
+> [API 명세서](https://www.notion.so/API-368d9a463c0a80ba9200da393f864d4e?source=copy_link)
 
 ---
 
